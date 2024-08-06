@@ -13,5 +13,5 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 Qualquer dúvida entre em contato
-<a href="lais.mendes.pereira@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"/></a>
+<a href="lais.mendes.pereira@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&quot;/></a>
 ![](https://media1.tenor.com/m/mSqzRhVl0nMAAAAd/flamengo-dan%C3%A7a.gif)
